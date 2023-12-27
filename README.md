@@ -27,4 +27,16 @@ under the src/test/java I have a package called tests with 2 classes HomeTestScr
 So you can Start Execute anyone of these classes 
 
 I have Implemenet The Appium Server to run Programmatically by the help of AppiumDriverLocalService class So You can start , stop and configer the Appium Server without need to do it manually
+So I Have AppiumUtils class which have local Path for the main.js You will need to change it based on the appium server location.
+
+I have separte the Project  into  3 main Parts 
+1) screens
+2) tests
+3) utils
+
+in screen I created a class for each screeen So it will have it's own locators and functions based on PageObject Design pattern
+in test I have created the required Scenarios
+in the utils package I have implements AppiumUtils and AppiumActions which inheret the utils
+
+I have Integrate the Frame work with Extent Report 
 
