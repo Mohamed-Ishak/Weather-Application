@@ -9,7 +9,7 @@ Environment Setup
  4) Build an Emulator 
  5) Appium Server
  6) Appim Inspector and I have used UiAutomatorViewr in inspecting the elements
- 7) Eclipse IDE and install some plugins like (Cucumber, TestNG , BrowserStack) From it's Market Place
+ 7) Eclipse IDE and install some plugins like (Cucumber, TestNG ) From it's Market Place
  8) Apache Maven 3.9.5
 
 Define Some Envrioment Variables like
