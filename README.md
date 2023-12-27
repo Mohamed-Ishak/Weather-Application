@@ -38,5 +38,5 @@ in screen I created a class for each screeen So it will have it's own locators a
 in test I have created the required Scenarios
 in the utils package I have implements AppiumUtils and AppiumActions which inheret the utils
 
-I have Integrate the Frame work with Extent Report 
+I have Integrate the Framework with Extent Report 
 
